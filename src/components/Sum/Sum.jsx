@@ -1,1 +1,1 @@
-// export const Sum = () => ();
+export const Sum = ({ tittle }) => <p>{tittle}</p>;
